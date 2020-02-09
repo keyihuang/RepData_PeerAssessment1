@@ -1,0 +1,10 @@
+"0","fileUrl <- ""https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip""
+download.file(fileUrl, destfile = paste0(getwd(), '/repdata%2Fdata%2Factivity.zip'), method = ""curl"")
+"
+"2","  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0"
+"2","100 53559  100 53"
+"2","559    0     0  71976      0 --:--:-- --:--:-- --:--:-- 72084
+"
+"0","unzip(""repdata%2Fdata%2Factivity.zip"",exdir = ""data"")"

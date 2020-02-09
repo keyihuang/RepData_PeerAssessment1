@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581285756023.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3302194776",
+    "id" : "486A924C",
+    "lastKnownWriteTime" : 1581285126,
+    "last_content_update" : 1581285126,
+    "path" : "~/Desktop/Robert/RepData_PeerAssessment1/PA1_template.md",
+    "project_path" : "PA1_template.md",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
